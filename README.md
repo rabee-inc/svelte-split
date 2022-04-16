@@ -25,21 +25,21 @@ npm install svelte-split --save
 </script>
 
 <Split class='f s-full' storageKey='demo' defaultSizes='{[30, 40, 30]}'>
-	<div class='bg-red text-white f fh'>
-		<div class='fs32 bold'>
-			red
-		</div>
-	</div>
-	<div class='bg-green text-white f fh'>
-		<div class='fs32 bold'>
-			green
-		</div>
-	</div>
-	<div class='bg-blue text-white f fh'>
-		<div class='fs32 bold'>
-			blue
-		</div>
-	</div>
+  <div class='bg-red text-white f fh'>
+    <div class='fs32 bold'>
+      red
+    </div>
+  </div>
+  <div class='bg-green text-white f fh'>
+    <div class='fs32 bold'>
+      green
+    </div>
+  </div>
+  <div class='bg-blue text-white f fh'>
+    <div class='fs32 bold'>
+      blue
+    </div>
+  </div>
 </Split>
 ```
 
