@@ -2,7 +2,6 @@
    
 <script context="module">
   const STORAGE_KEY = '_svelte-split-data';
-  import { browser } from '$app/env';
   // svelte-ignore unused-export-let
   export let _data;
   // svelte-ignore unused-export-let
@@ -14,7 +13,7 @@
     let data = localStorage.getItem(STORAGE_KEY);
     _data = data ? JSON.parse(data) : {};
   };
-  if (browser) {
+  if (typeof localStorage !== 'undefined') {
     _load();
   }
 </script>
