@@ -1,18 +1,18 @@
-# svelte-plugin-template
+# svelte-split
 
-svelte-plugin-template is ...
+svelte-split is ...
 
-https://www.npmjs.com/package/svelte-plugin-template
+https://www.npmjs.com/package/svelte-split
 
 ## Demo
 
-- Live Demo: https://svelte-plugin-template.onrender.com
+- Live Demo: https://svelte-split.onrender.com
 - REPL: https://svelte.dev/repl/hello-world
 
 ## Install
 
 ```bash
-npm install svelte-plugin-template --save
+npm install svelte-split --save
 ```
 
 ## Usage
