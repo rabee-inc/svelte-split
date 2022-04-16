@@ -9,7 +9,7 @@ https://www.npmjs.com/package/svelte-split
 ## Demo
 
 - Live Demo: https://svelte-split.onrender.com
-- REPL: https://svelte.dev/repl/hello-world
+- REPL: https://svelte.dev/repl/cc5bb5705d07470993183e58ff62f508?version=3.47.0
 
 ## Install
 
