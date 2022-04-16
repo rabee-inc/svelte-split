@@ -12,7 +12,7 @@ svelte-split is ...
 ## Install
 
 ```bash
-npm install svelte-split --save
+$ npm install svelte-split --save
 ```
 
 ## Usage
