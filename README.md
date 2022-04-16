@@ -1,5 +1,7 @@
 # svelte-split
 
+[![npm version](https://badge.fury.io/js/svelte-split.svg)](https://badge.fury.io/js/svelte-split)
+
 svelte-split is ...
 
 https://www.npmjs.com/package/svelte-split
