@@ -1,2 +1,2 @@
 // components
-export { default as Plugin } from './Plugin.svelte';
+export { default as default } from './Split.svelte';

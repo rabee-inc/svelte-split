@@ -1,8 +1,8 @@
 {
-  "name": "svelte-plugin-template",
+  "name": "svelte-split",
   "version": "0.0.1",
   "main": "index.js",
-  "description": "svelte-plugin-template is ...",
+  "description": "svelte-split is ...",
   "keywords": [
     "svelte",
     "sveltekit",
@@ -37,11 +37,14 @@
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/rabee-inc/svelte-plugin-template.git"
+    "url": "git+ssh://git@github.com/rabee-inc/svelte-split.git"
   },
   "author": "",
   "bugs": {
-    "url": "https://github.com/rabee-inc/svelte-plugin-template/issues"
+    "url": "https://github.com/rabee-inc/svelte-split/issues"
   },
-  "homepage": "https://github.com/rabee-inc/svelte-plugin-template#readme"
+  "homepage": "https://github.com/rabee-inc/svelte-split#readme",
+  "dependencies": {
+    "split.js": "^1.6.5"
+  }
 }

@@ -23,7 +23,7 @@ const config = {
       },
       resolve: {
         alias: {
-          "svelte-plugin-template": path.resolve('./src/lib'),
+          "svelte-split": path.resolve('./src/lib'),
           $components: path.resolve('./src/components'),
           $admin: path.resolve('./src/admin'),
         }
